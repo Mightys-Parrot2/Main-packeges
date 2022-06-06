@@ -1,5 +1,5 @@
 <h1 align="center"> Mightys Parrot2</h1>
-<h2 align="left"> This tool is an introduction to the termux application ... This tool contains the basic command required for termux ...</h2>
+<h2 align="left"> This tool is an introduction to the termux application. This tool contains the basic command required for termux .</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightys-parrot2&label=Tool%20users&color=0e75b6&style=flat" alt="mightys-parrot2" /> </p>
 
   ***Installetion Termux*** 
