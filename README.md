@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightys-parrot2&label=Tool%20users&color=0e75b6&style=flat" alt="mightys-parrot2" /> </p>
 
   ***Installetion Termux*** 
-- **apt update && upgrade**
-- **pkg install git**
--  **pkg install python**
-- **pkg install python3**
-- **git clone https://github.com/Mightys-Parrot2/Main-packeges.git**
-- **cd Main-packeges**
-- **python3 basicpkg.py**
+- **```apt update && upgrade```**
+- **```pkg install git```**
+-  **```pkg install python```**
+- **```pkg install python3```**
+- **```git clone https://github.com/Mightys-Parrot2/Main-packeges.git```**
+- **```cd Main-packeges```**
+- **```python3 basicpkg.py```**
 <h3 align="left">Follow me on Github:
 https://github.com/Mightys-Parrot2.git</h3>
 <p align="left">
