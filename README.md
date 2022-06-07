@@ -17,3 +17,4 @@ https://github.com/Mightys-Parrot2.git</h3>
 
 <h3 align="left"> usegd Languages:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=16D400&size=25&width=770&lines=Mightys+Parrot2+tool+for+you](https://git.io/typing-svg)
